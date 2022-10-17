@@ -96,6 +96,20 @@ intro_href:hover {
   text-decoration: none;
 }
 
+self_href {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  letter-spacing:0.5px;
+  color: #b7330e; /* #314e64; */ /* #1772d0; */
+  text-decoration: none;
+}
+self_href:focus,
+self_href:hover {
+  color: #2bbc0a; /* #f09228; */
+  text-decoration: none;
+}
+
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 26px;
