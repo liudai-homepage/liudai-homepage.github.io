@@ -123,10 +123,15 @@ uniname {
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-style: italic;
   font-size: 22px;
   font-weight: 700
 }
+
+paperauthor {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16px
+}
+
 paper_href {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 18px;
